@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0031-next-permutation) |
+| [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
+## Linked List
+|  |
+| ------- |
+| [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 <!---LeetCode Topics End-->
