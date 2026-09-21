@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
