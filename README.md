@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0645-set-mismatch](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 ## Bit Manipulation
 |  |
