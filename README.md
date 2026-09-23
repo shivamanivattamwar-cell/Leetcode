@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
