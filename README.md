@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0031-next-permutation) |
+| [0500-keyboard-row](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0500-keyboard-row](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0817-linked-list-components) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0500-keyboard-row) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
