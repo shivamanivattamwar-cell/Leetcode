@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0645-set-mismatch) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Recursion
@@ -125,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
