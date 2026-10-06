@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
