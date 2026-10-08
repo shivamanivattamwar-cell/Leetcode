@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0043-multiply-strings) |
 | [0482-license-key-formatting](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
