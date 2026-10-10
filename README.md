@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0031-next-permutation) |
+| [0844-backspace-string-compare](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0043-multiply-strings) |
 | [0482-license-key-formatting](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0500-keyboard-row) |
+| [0844-backspace-string-compare](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -164,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0043-multiply-strings) |
+| [0844-backspace-string-compare](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
