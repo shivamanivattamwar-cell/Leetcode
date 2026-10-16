@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Linked List
 |  |
 | ------- |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0043-multiply-strings) |
 | [0844-backspace-string-compare](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/0844-backspace-string-compare) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivamanivattamwar-cell/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
