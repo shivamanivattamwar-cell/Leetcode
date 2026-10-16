@@ -3,12 +3,10 @@ class Solution {
         int sum=0;
         Set<Integer> hs;
         for(int i=0;i<nums.size();i++){
+            hs=new HashSet<>();
             for(int j=i;j<nums.size();j++){
-                hs=new HashSet<>();
-                for(int k=i;k<=j;k++){
-                    hs.add(nums.get(k));
-                }
-                sum+=hs.size()*hs.size();
+               hs.add(nums.get(j));
+               sum+=hs.size()*hs.size();
             }
         }
         return sum;
